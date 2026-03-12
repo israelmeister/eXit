@@ -6,7 +6,7 @@ Inspired by the TV series **Mr. Robot**.
 
 ## About
 
-This is my first game project.
+This is my first small project. I am not a graphic designer, so the visuals are basic. The focus was on learning C++ and SFML, not on creating original assets.
 
 
 ## Disclaimer
