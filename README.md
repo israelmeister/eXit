@@ -6,14 +6,12 @@ Inspired by the TV series **Mr. Robot**.
 
 ## About
 
-This is my first game project. I wanted to learn SFML and make something playable.
-The game combines text narration with basic sprite rendering.
+This is my first game project.
+
 
 ## Disclaimer
 
-All assets (sprites, sounds, fonts) are placeholder/temporary.
-I do not own any of them. This is a non-commercial fan project for learning purposes.
-Please don't judge them too harshly — I'm a programmer, not an artist 😅
+I am not an artist.
 
 ## Build
 
