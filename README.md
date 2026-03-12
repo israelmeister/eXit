@@ -9,10 +9,6 @@ Inspired by the TV series **Mr. Robot**.
 This is my first small project. I am not a graphic designer, so the visuals are basic. The focus was on learning C++ and SFML, not on creating original assets.
 
 
-## Disclaimer
-
-I am not an artist.
-
 ## Build
 
 - C++17
