@@ -1,0 +1,33 @@
+# Папки сборки Visual Studio
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# Настройки Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.opendb
+*.suo
+*.user
+*.swp
+
+# Папки с зависимостями (если сам скачал SFML и положил рядом)
+# Но лучше SFML не хранить в репозитории, а указать в README
+# Раскомментируй если хочешь исключить SFML dll:
+# *.dll
+
+# Ресурсы игры (это НЕ исключаем!)
+# !assets/
+# !sprites/
+# !fonts/
